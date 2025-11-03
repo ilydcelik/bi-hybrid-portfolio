@@ -1,0 +1,7 @@
+Date,Region,ProductCategory,ProductName,CustomerType,Amount,QuantityKG,QuantityTON
+2024-01-05,Marmara,Seed,Wheat Seed Premium,Cooperative,1250000,50000,50
+2024-01-05,Ege,Seed,Corn Hybrid,Distributor,980500,41000,41
+2024-01-06,Akdeniz,Fertilizer,NPK 20-20-20,Retail,650000,26000,26
+2024-01-06,İç Anadolu,Seed,Barley Elite,Cooperative,730000,32000,32
+2024-01-07,Marmara,Feed,Cattle Feed Premium,Dealer,815200,43000,43
+2024-01-07,Karadeniz,Seed,Rye Hybrid,Cooperative,420000,18000,18
