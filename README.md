@@ -21,11 +21,12 @@ Hybrid Business Intelligence &amp; Backend Engineering Portfolio   Qlik Sense �
 - Demo API → [/api/Program.cs](api/Program.cs)
 
 ## 📂 Repository Structure
-dataset/                         # Dummy CSV
-sql/                             # ETL & reporting SQL
-docs/                            # KPI definitions, data model
-dashboards/dummy_screenshots/    # Demo dashboard görselleri
-api/                             # Minimal .NET API (in-memory)
+
+- `dataset/` — Dummy CSV dataset
+- `sql/` — KPI queries & incremental ETL scripts
+- `docs/` — Data model doc (Mermaid ERD)
+- `dashboards/dummy_screenshots/` — Demo dashboards screenshots
+- `api/` — Minimal .NET 7 Web API (in-memory)
 
 ## 📊 Real-World BI Projects
 
