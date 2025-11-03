@@ -1,5 +1,7 @@
 # Data Model (Star Schema)
 
+Below is the logical star-schema design for the demo sales dataset.
+
 ```mermaid
 erDiagram
   FactSales {
@@ -31,6 +33,6 @@ erDiagram
     sku varchar
   }
 
-  FactSales ||--o{ DimDate : "by date"
-  FactSales }o--|| DimRegion : "by region"
-  FactSales }o--|| DimProduct : "by product"
+  FactSales ||--o{ DimDate : "date"
+  FactSales }o--|| DimRegion : "region"
+  FactSales }o--|| DimProduct : "product"
